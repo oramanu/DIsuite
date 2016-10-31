@@ -1,2 +1,2 @@
 # DIsuite
-DI suite project
+DI suite project on Github
